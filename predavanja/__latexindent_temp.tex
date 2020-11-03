@@ -1,0 +1,147 @@
+\documentclass[a4paper,12pt]{report}
+\usepackage[slovene]{babel}
+\usepackage{listings}
+\usepackage{graphicx}
+\usepackage[section]{placeins}
+\newcommand{\subtitle}[1]{%
+  \posttitle{%
+    \par\end{center}
+    \begin{center}\large#1\end{center}
+    \vskip0.5em}%
+}
+
+\lstset{
+numberstyle=\small, 
+numbersep=8pt, 
+frame = single, 
+language=SQL, 
+framexleftmargin=15pt}
+
+\begin{document}
+
+\title{Skripta za pripravo na ustni izpit:\\Planiranje in upravljanje informatike}
+\author{povzeto po predavanjih prof. Roka Rupnika}
+
+\maketitle
+
+\chapter{Uvodni sklop}
+
+\paragraph{Informacijska družba} je družba v kateri je uspeh posameznika in organizacije odvisen od hitrosti procesiranja informacij in sposobnosti pridobiti pravo informacijo v pravem trenutku.
+
+\paragraph{Informacijski sistem} opredelimo kot množico medsebojno odvisnih komponent,
+   med katere spadajo strojna in programska oprema ter ljudje, ki zbirajo, procesirajo,
+   hranijo in porazdeljujejo podatke in s tem podpirajo delavne procese v organizaciji.
+      
+
+\paragraph{Delitev IS} Informacijske sisteme delimo na \textbf{formalne} in \textbf{neformalne}. 
+Nefromalne IS ne moremo natančno definirati, saj ne vemo kako delujejo \textit{(npr. instinkt)}. Takšnih IS ne moremo sprogramirati.
+
+\section{Vrste informacijskih sistemov}
+
+   \paragraph{Transakcijski IS} pokriva vsako dnevne dogodke/transakcije (CDR - call data register).
+
+   \paragraph{Upravljalski (poslovodski) IS} omogočajo planiranje \textit{(npr. ali se na študijskem programu izplača povečati vpis)}
+
+   \paragraph{Direktorski IS}\mbox{}
+
+   \paragraph{Odločitveni IS} omogočajo svetovanje za sprejemanje odločitev, bazirajo na določenem modelu \textit{(npr. odobritev kredita na banki)}
+
+   \paragraph{Ekspertni IS} \textit{poskušajo} nadomestiti eksperta \textit{(npr. diagnostika pacienta na podlagi njegovih simptomov)}, osnovani so na \textbf{bazi znanja} (\textit{if/else} pravila)
+
+   \paragraph{Sistemi za avtomatizacijo/ Sistemi za podporo delovni procesom}\mbox{}
+
+   \subsection{Dellitev IS na ravni}
+      \paragraph{Operativna raven} je najnižja raven, ki vključuje predvsem transakcijske sisteme, kjer hranimo veliko količino neagregiranih podatkov.
+      Stopnja avtomatizacije je visoka, IS na tej ravni so visoko formalni.
+      \paragraph{Taktična raven} vmesna raven, kjer so podatki zmerno agregirani, še vedno je prisotna visoka stopnja formalnosti in avtomatizacije \textit{(npr. beleženje porabljenih enot v mobilnem paketu)}
+      \paragraph{Stratežka raven} je najvišja ravem na kateri so prisotni večinoma agregirani podatki. Takšni sistemi so povečini neformalni (ali zgolj delno formalni), avtomatizacije je malo ali ni prisotna.
+
+   \section{Življenjski modeli razvoja informacijskih sistemov}
+
+   \paragraph{Faze razvoja IS} Razvoj IS običajno delimo v naslednje faze:
+      \begin{enumerate}
+         \item analiza
+         \item načrtovanje
+         \item implementacija
+         \item testiranje
+         \item uvedba
+         \item vzdrževanje
+      \end{enumerate}
+   \paragraph{Življenjski model razvoja} \textit{(SDLC - system development life cycle)} pove sosledje in način izvedbe faz v okviru razvoja IS.
+
+   \pagebreak
+
+   \subsection{Pristopi k razvoju IS}
+   \subsubsection{Zaporedni ali slapovni pristop}
+   Ko se ena faza konča, se druga začne.
+
+   \begin{center}
+      \begin{tabular}{|c|c|}
+         \hline
+         \textbf{Faza} & \textbf{Cilj}\\
+         \hline
+         analiza & zahteve\\
+         načrtovanje & načrt\\
+         izvedba & koda\\
+         testiranje&\\
+         uvedba&IS\\
+         \hline
+      \end{tabular}
+   \end{center}
+
+   \paragraph{Prednosti in slabosti takšnega pristopa}\mbox{}
+   \begin{center}
+      \begin{tabular}{|c||c|}
+         \hline
+         \textbf{Prednosti} & \textbf{Slabosti}\\
+         \hline
+         malo režijskega dela & prepozno testiranje\\
+         & nenaravno\\
+         \hline
+      \end{tabular}
+   \end{center}
+
+   \subsubsection{Iterativni pristop}
+   Faze razvoja so razdeljene v iteracije, v vsaki iteraciji se izvedejo vse faze. Vsaka iteracija ima nek končni izdelek, ki je del celotne končne rešitve.
+
+   \begin{center}
+      \begin{tabular}{|c||c|}
+         \hline
+         \textbf{Prednosti} & \textbf{Slabosti}\\
+         \hline
+         povratne informacije & težko načrtovanje iteracij\\
+         \hline
+      \end{tabular}
+   \end{center}
+
+   \paragraph{Planiranje iteracij na makro ravni - release planing} celoten razvoj razdelimo na makro iteracije, vsaka izmed iteracij ima kot končen izdelek nek del informacijske rešitve.
+   Te iteracije imenujemo \textbf{release} in so omejene na 2-4 mesece. Pred zadnjim relesom moramo imeti izdelek, ki vsebuje vse minimalne zahteve projekta
+   \textbf{MVP - minimal value product}.
+
+   \paragraph{Planiranje iteracij na mikro ravni - iteration planing} Makro iteracije razdelimo na manjše iteracije, ki trajajo med enim in dvema tednoma.
+   V tem času želimo razviti del rešitve, ki sestavlja končen izdelek, ki ga želimo razvit v tem releasu. Iteracije delimo še na \textbf{task-e}.
+
+   \subsubsection{Prototipni pristop}
+   Temelji na delnih prototipnih izdelkih. Analizo in razvoj prototipa opravimo v začetku v celoti in kot rezultat pridobimo delovni prototip.
+   Ne \textbf{delovnem prototipu} potem izvajamo testiranje in uporabo, preko katerih se odločamo o nadaljnem razvoju in izboljšavah.
+
+   \subsubsection{Inkrementalni pristop}
+   Inkrementalni pristop nam omogoča, da projekt razdelimo na več samostojnih podproblemov. Vsak izmed podproblemov je samostojen del končne informacijske rešitve.
+   Vsak del razvijamo posebej ter ga ob zaključku predamo stranki v uporabo ter nadaljujemo z razvojem naslednjega podproblema.
+
+   \paragraph{MoSCoW} - \textit{must, should, could, won't}
+
+   \begin{center}
+      \begin{tabular}{|c||c|}
+         \hline
+         \textbf{Prednosti} & \textbf{Slabosti}\\
+         \hline
+         na začetku rešimo najbolj tvegane sklope & vseh IS ne moremo razdeliti\\& na samostojne enote\\
+         \hline
+      \end{tabular}
+   \end{center}
+
+   
+   
+   
+\end{document}

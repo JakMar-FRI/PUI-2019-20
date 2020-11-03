@@ -1,0 +1,402 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.10)  19 JUN 2020 14:19
+entering extended mode
+**c:/Users/jakob/Documents/PUI/predavanja/skripta.tex
+(c:/Users/jakob/Documents/PUI/predavanja/skripta.tex
+LaTeX2e <2019-10-01> patch level 3
+("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cls"
+Document Class: report 2019/10/25 v1.4k Standard LaTeX document class
+("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2019/11/14 3.36 The Babel package
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def"
+File: switch.def 2019/11/14 3.36 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-slovenian\slovene.ldf"
+Language: slovene 2005/03/31 v1.2m Slovene support from the babel system
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2019/11/14 3.36 Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen103
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
+\bbl@dirlevel=\count90
+)
+Package babel Info: Making " an active character on input line 79.
+)) ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.sty" ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\lst@mode=\count91
+\lst@gtempboxa=\box27
+\lst@token=\toks15
+\lst@length=\count92
+\lst@currlwidth=\dimen104
+\lst@column=\count93
+\lst@pos=\count94
+\lst@lostspace=\dimen105
+\lst@width=\dimen106
+\lst@newlines=\count95
+\lst@lineno=\count96
+\lst@maxwidth=\dimen107
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.sty"
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count97
+\lst@skipnumbers=\count98
+\lst@framebox=\box28
+) ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.cfg"
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen108
+\Gin@req@width=\dimen109
+) ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/placeins\placeins.sty"
+Package: placeins 2005/04/18  v 2.2
+) ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.sty"
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+) (c:/Users\jakob\Documents\PUI\predavanja\skripta.aux)
+\openout1 = `skripta.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+\c@lstlisting=\count99
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count100
+\scratchdimen=\dimen110
+\scratchbox=\box29
+\nofMPsegments=\count101
+\nofMParguments=\count102
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count103
+\MPscratchDim=\dimen111
+\MPnumerator=\count104
+\makeMPintoPDFobject=\count105
+\everyMPtoPDFconversion=\toks17
+) ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2019/11/24 v2.7 Base part for package epstopdf
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+) ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))) ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifluatex.sty"
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+ ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))))) ("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexcmds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 442.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 460.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 26.
+ [1
+
+{C:/Users/jakob/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Poglavje 1.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 39.
+("C:\Users\jakob\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 39.
+ [1
+
+]
+Overfull \hbox (11.86569pt too wide) in paragraph at lines 55--55
+[]\OT1/cmr/bx/n/17.28 Obvladovanje in-for-ma-tike in po-slovna stra-
+ []
+
+<./pics/001.png, id=12, 456.95718pt x 170.88844pt>
+File: ./pics/001.png Graphic file (type png)
+<use ./pics/001.png>
+Package pdftex.def Info: ./pics/001.png  used on input line 60.
+(pdftex.def)             Requested size: 342.71704pt x 128.166pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 76.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 76.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 76.
+[2 <./pics/001.png>] [3]
+Poglavje 2.
+[4
+
+] [5]
+Overfull \hbox (65.97983pt too wide) in paragraph at lines 195--214
+ [] 
+ []
+
+[6] [7]
+Poglavje 3.
+[8
+
+] [9] [10]
+Poglavje 4.
+[11
+
+] [12]
+Overfull \hbox (33.96574pt too wide) in paragraph at lines 371--371
+[]\OT1/cmr/bx/n/17.28 Konceptualni in ope-ra-tivni mo-del strateskega
+ []
+
+<./pics/002.png, id=51, 825.83531pt x 624.08156pt>
+File: ./pics/002.png Graphic file (type png)
+<use ./pics/002.png>
+Package pdftex.def Info: ./pics/002.png  used on input line 375.
+(pdftex.def)             Requested size: 313.82068pt x 237.15346pt.
+[13 <./pics/002.png>]
+Overfull \hbox (1.27464pt too wide) in paragraph at lines 402--403
+ \OT1/cmr/bx/n/12 Kom-bi-na-cija Top-Down in Bottom-Up[] \OT1/cmr/m/n/12 Ozje vod-stvo poda grobe usme-
+ []
+
+
+Overfull \hbox (39.62564pt too wide) in paragraph at lines 402--403
+\OT1/cmr/m/n/12 ri-tve, ki od-del-kom omogocajo fle-ksi-bil-nost pri iz-de-lavi pla-nov. Gre za najucinkovitejsi
+ []
+
+[14]
+Overfull \hbox (6.26256pt too wide) in paragraph at lines 416--417
+\OT1/cmr/m/n/12 Pri sami upo-rabi pa si vse-eno do-vo-limo fle-ksi-bil-nost in kre-a-tiv-nost - strateskega
+ []
+
+[15]
+Poglavje 5.
+<./pics/003.png, id=62, 1147.28625pt x 710.655pt>
+File: ./pics/003.png Graphic file (type png)
+<use ./pics/003.png>
+Package pdftex.def Info: ./pics/003.png  used on input line 437.
+(pdftex.def)             Requested size: 430.2313pt x 266.49496pt.
+
+Overfull \hbox (40.2313pt too wide) in paragraph at lines 437--438
+[] 
+ []
+
+[16
+
+]
+Overfull \hbox (6.49007pt too wide) in paragraph at lines 442--443
+[]\OT1/cmr/bx/n/12 poslovnih mo-de-lov\OT1/cmr/m/n/12 : mo-de-lov po-slov-nih pro-ce-sov, or-ga-ni-za-cij-ske struk-
+ []
+
+
+Overfull \hbox (4.70575pt too wide) in paragraph at lines 451--451
+[]\OT1/cmr/bx/n/17.28 Metodologija strateskega pla-ni-ra-nja in-for-
+ []
+
+[17 <./pics/003.png>] [18] [19]
+Poglavje 6.
+[20
+
+]
+Overfull \hbox (5.34969pt too wide) in paragraph at lines 503--503
+[]\OT1/cmr/bx/n/17.28 Projektno vo-de-nje - pro-jek-tni ma-na-gment 
+ []
+
+[21]
+<./pics/004.png, id=83, 963.6pt x 316.93407pt>
+File: ./pics/004.png Graphic file (type png)
+<use ./pics/004.png>
+Package pdftex.def Info: ./pics/004.png  used on input line 528.
+(pdftex.def)             Requested size: 361.34912pt x 118.84998pt.
+<./pics/005.png, id=84, 935.74594pt x 489.32813pt>
+File: ./pics/005.png Graphic file (type png)
+<use ./pics/005.png>
+Package pdftex.def Info: ./pics/005.png  used on input line 539.
+(pdftex.def)             Requested size: 350.90387pt x 183.49759pt.
+<./pics/006.png, id=85, 1033.61156pt x 566.115pt>
+File: ./pics/006.png Graphic file (type png)
+<use ./pics/006.png>
+Package pdftex.def Info: ./pics/006.png  used on input line 543.
+(pdftex.def)             Requested size: 387.60338pt x 212.2926pt.
+<./pics/007.png, id=86, 1039.63406pt x 597.73312pt>
+File: ./pics/007.png Graphic file (type png)
+<use ./pics/007.png>
+Package pdftex.def Info: ./pics/007.png  used on input line 547.
+(pdftex.def)             Requested size: 389.86182pt x 224.14937pt.
+<./pics/009.png, id=87, 1050.92625pt x 573.64313pt>
+File: ./pics/009.png Graphic file (type png)
+<use ./pics/009.png>
+Package pdftex.def Info: ./pics/009.png  used on input line 551.
+(pdftex.def)             Requested size: 394.09639pt x 215.11565pt.
+
+Overfull \hbox (4.09639pt too wide) in paragraph at lines 551--552
+[][] 
+ []
+
+<./pics/008.png, id=88, 1030.60031pt x 603.0028pt>
+File: ./pics/008.png Graphic file (type png)
+<use ./pics/008.png>
+Package pdftex.def Info: ./pics/008.png  used on input line 555.
+(pdftex.def)             Requested size: 386.47417pt x 226.12549pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[22 <./pics/004.png>] [23 <./pics/005.png> <./pics/006.png>] [24 <./pics/007.png> <./pics/009.png>] [25 <./pics/008.png>]
+Overfull \hbox (0.1177pt too wide) in paragraph at lines 560--561
+\OT1/cmr/m/n/12 pro-jek-tne do-ku-men-ta-cije, or-ga-ni-za-cija se-stan-kov, za-pi-sni-kov,...) in stratesko
+ []
+
+
+Overfull \hbox (17.79878pt too wide) in paragraph at lines 566--567
+ \OT1/cmr/bx/n/12 Pro-ject Ma-na-gment In-for-ma-tion Sy-stem (PMIS)[] \OT1/cmr/m/n/12 omogoca ucinkovitejse
+ []
+
+[26
+
+] [27]
+Poglavje 7.
+<./pics/010.png, id=114, 550.30594pt x 436.63126pt>
+File: ./pics/010.png Graphic file (type png)
+<use ./pics/010.png>
+Package pdftex.def Info: ./pics/010.png  used on input line 607.
+(pdftex.def)             Requested size: 206.36421pt x 163.73631pt.
+[28
+
+]
+Overfull \hbox (6.78922pt too wide) in paragraph at lines 628--639
+ [] 
+ []
+
+[29 <./pics/010.png>]
+<./pics/011.png, id=122, 1165.35374pt x 584.1825pt>
+File: ./pics/011.png Graphic file (type png)
+<use ./pics/011.png>
+Package pdftex.def Info: ./pics/011.png  used on input line 649.
+(pdftex.def)             Requested size: 349.60883pt x 175.25609pt.
+ [30 <./pics/011.png>] [31]
+Overfull \hbox (3.78337pt too wide) in paragraph at lines 695--707
+ [] 
+ []
+
+[32] [33]
+Overfull \hbox (3.55017pt too wide) in paragraph at lines 778--779
+ [] \OT1/cmr/m/n/12 V pri-meru manjsih pro-jek-tov je ta pro-ces po-ve-zan s pla-ni-ra-njem, v splosnem
+ []
+
+[34]
+Overfull \hbox (38.32085pt too wide) in paragraph at lines 786--798
+ [] 
+ []
+
+[35] [36]
+Overfull \hbox (6.03616pt too wide) in paragraph at lines 850--851
+\OT1/cmr/m/n/12 ter-min-kem planu, planu ka-ko-vo-sti, oskr-bo-va-nja, cloveskih vi-rov in/ali stroskov. 
+ []
+
+
+Overfull \hbox (25.27086pt too wide) in paragraph at lines 857--871
+ [] 
+ []
+
+[37]
+Overfull \hbox (39.66249pt too wide) in paragraph at lines 885--899
+ [] 
+ []
+
+[38]
+Overfull \hbox (3.41806pt too wide) in paragraph at lines 902--903
+ \OT1/cmr/bx/n/12 Od-kri-va-nje deleznikov[] \OT1/cmr/m/n/12 Pri-do-biti je po-trebno in-for-ma-cije o vseh deleznikih
+ []
+
+
+Overfull \hbox (2.90286pt too wide) in paragraph at lines 903--904
+\OT1/cmr/m/n/12 deleznikihm nji-hovi kla-si-fi-ka-ciji (pod-por-nik, nev-trale, na-spro-tnik), belezenjem
+ []
+
+
+Overfull \hbox (25.18932pt too wide) in paragraph at lines 904--904
+[]\OT1/cmr/bx/n/14.4 Obvladovanje pricakovanj in so-de-lo-va-nja deleznikov 
+ []
+
+[39] [40]
+Overfull \hbox (11.1275pt too wide) in paragraph at lines 943--944
+ \OT1/cmr/bx/n/12 Zbi-ra-nje po-dat-kov[] \OT1/cmr/m/n/12 za spre-mlja-nje po-teka pro-jekta, iz-de-lavo sta-tu-sni porocil
+ []
+
+[41] (c:/Users\jakob\Documents\PUI\predavanja\skripta.aux) ) 
+Here is how much of TeX's memory you used:
+ 3639 strings out of 492484
+ 53420 string characters out of 3121600
+ 313357 words of memory out of 3000000
+ 7935 multiletter control sequences out of 15000+200000
+ 9761 words of font info for 34 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,7n,40p,717b,219s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/jakob/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jakob/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/jakob/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jakob/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/jakob/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jakob/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on c:/Users\jakob\Documents\PUI\predavanja\skripta.pdf (42 pages, 1614812 bytes).
+PDF statistics:
+ 185 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+
